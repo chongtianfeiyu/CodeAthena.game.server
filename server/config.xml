@@ -1,0 +1,7 @@
+<root>
+	<port>6688</port>
+	<idleTimeout>10</idleTimeout>
+	<heartBeat>0</heartBeat>
+	<heartBeatTimout>15</heartBeatTimout>
+	<heartBeatInterval>1</heartBeatInterval>
+</root>
