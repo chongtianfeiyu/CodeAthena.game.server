@@ -88,7 +88,7 @@ public class GameMainServer {
 			System.out.println("server is running...");
 			acceptor.bind(new InetSocketAddress(GameConfig.port));
 		} catch (Exception e) {
-			log.error("WebClassRoomServer error", e);
+			log.error("server error", e);
 		}
 	}
 }
